@@ -20,4 +20,14 @@ Gaussian class.
 
 The example_code.py file then imports the Gaussian distribution class. 
 
+![image1](https://raw.githubusercontent.com/ARBUCHELI/DEMO-MODULARIZED-CODE/master/Sin%20t%C3%ADtulo1.jpg)
+
+
+![image2](https://raw.githubusercontent.com/ARBUCHELI/DEMO-MODULARIZED-CODE/master/Sin%20t%C3%ADtulo2.jpg)
+
+![image3](https://raw.githubusercontent.com/ARBUCHELI/DEMO-MODULARIZED-CODE/master/Sin%20t%C3%ADtulo3.jpg)
+
+![image4](https://raw.githubusercontent.com/ARBUCHELI/DEMO-MODULARIZED-CODE/master/Sin%20t%C3%ADtulo4.jpg)
+
+
 ## Solution of the exercise and adaptation as a Repository: Andrés R. Bucheli.
