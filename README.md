@@ -20,3 +20,4 @@ Gaussian class.
 
 The example_code.py file then imports the Gaussian distribution class. 
 
+## Solution of the exercise and adaptation as a Repository: Andrés R. Bucheli.
