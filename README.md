@@ -30,4 +30,4 @@ The example_code.py file then imports the Gaussian distribution class.
 ![image4](https://raw.githubusercontent.com/ARBUCHELI/DEMO-MODULARIZED-CODE/master/Sin%20t%C3%ADtulo4.jpg)
 
 
-## Solution of the exercise and adaptation as a Repository: Andrés R. Bucheli.
+## Adaptation as a Repository: Andrés R. Bucheli.
